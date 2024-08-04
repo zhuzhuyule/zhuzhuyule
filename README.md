@@ -22,7 +22,6 @@
 <code><img height="40" alt="nodejs"     src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/nodejs/nodejs.png"></code>    
 <code><img height="40" alt="electron"   src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/electron/electron.png"></code>  
 <code><img height="40" alt="tauri"      src="https://raw.githubusercontent.com/github/explore/70444453f0d8b1143dca3a7b273119ef88bd4399/topics/tauri/tauri.png"></code>  
-<code></code>  
 </p>
 
 <br />
