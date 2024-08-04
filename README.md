@@ -42,3 +42,7 @@
 <a href="https://github.com/zhuzhuyule/HexoEditor">
   <img align="center" src="https://my-github-stats-pied.vercel.app/api/pin/?username=zhuzhuyule&repo=HexoEditor&theme=grey" />
 </a>
+
+<br />
+#### Waka Time
+[![Zac's WakaTime stats](https://my-github-stats-pied.vercel.app/api/wakatime?username=zac)](https://github.com/zhuzhuyule)
