@@ -2,7 +2,7 @@
 
 <br />
 
-#### About me
+### About me
 
 - 💼 I am a full-stack engineer proficient in developing with Node.js, TypeScript, and React.
 
@@ -14,7 +14,7 @@
 
 <br />
 
-#### Language
+### Language
 <p align="left">
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/typescript/typescript.png"></code>
@@ -27,18 +27,18 @@
 
 <br />
 
-#### Blog
+### Blog
 [<img height="40" alt="github" src="https://raw.githubusercontent.com/github/explore/70444453f0d8b1143dca3a7b273119ef88bd4399/topics/github/github.png" />](https://zhuzhuyule.github.io)　[<img height="40" alt="csdn" src="https://telegra.ph/file/d9e347310c657bd107727.png" />](https://blog.csdn.net/zhuzhuyule)
 
 <br />
 
-#### Github Info
+### Github Info
 | <a href="https://zhuzhuyule.github.io"><img align="center" src="https://my-github-stats-pied.vercel.app/api?username=zhuzhuyule&show_icons=true&include_all_commits=true&theme=blue&hide_border=true" alt="zhuzhuyule's github stats" /></a> | <a href="https://zhuzhuyule.github.io"><img align="center" src="https://my-github-stats-pied.vercel.app/api/top-langs/?username=zhuzhuyule&layout=compact&theme=grey&hide_border=true&exclude_repo=my-github-stats,zhuzhuyule.github.io&langs_count=10" /></a> |
 | ------------- | ------------- |
 
 <br />
 
-#### Top Repositories
+### Top Repositories
 <a href="https://github.com/zhuzhuyule/HexoEditor">
   <img align="center" src="https://my-github-stats-pied.vercel.app/api/pin/?username=zhuzhuyule&repo=HexoEditor&theme=grey" />
 </a>
