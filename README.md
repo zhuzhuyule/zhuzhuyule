@@ -14,7 +14,7 @@
 
 <br />
 
-### Language
+### Skill
 <p align="left">
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/typescript/typescript.png"></code>
