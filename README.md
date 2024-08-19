@@ -32,7 +32,7 @@
 <br />
 
 ### Github Info
-| <a href="https://zhuzhuyule.github.io"><img align="center" src="https://my-github-stats-pied.vercel.app/api?username=zhuzhuyule&show_icons=true&include_all_commits=true&theme=blue&hide_border=true" alt="zhuzhuyule's github stats" /></a> | <a href="https://zhuzhuyule.github.io"><img align="center" src="https://my-github-stats-pied.vercel.app/api/top-langs/?username=zhuzhuyule&layout=compact&theme=grey&hide_border=true&exclude_repo=my-github-stats,zhuzhuyule.github.io&langs_count=10" /></a> |
+| <a href="https://zhuzhuyule.github.io"><img align="center" src="https://ause.cc/github-profile-stats" alt="zhuzhuyule's github stats" /></a> | <a href="https://zhuzhuyule.github.io"><img align="center" src="https://my-github-stats-pied.vercel.app/api/top-langs/?username=zhuzhuyule&layout=compact&theme=grey&hide_border=true&exclude_repo=my-github-stats,zhuzhuyule.github.io&langs_count=1" /></a> |
 | ------------- | ------------- |
 
 <br />
