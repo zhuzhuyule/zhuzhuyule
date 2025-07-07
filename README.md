@@ -16,18 +16,18 @@
 
 ### Skill
 <p align="left">
-<code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></code>
-<code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/typescript/typescript.png"></code>
-<code><img height="40" alt="react"      src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/react/react.png"></code>
-<code><img height="40" alt="nodejs"     src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/nodejs/nodejs.png"></code>    
-<code><img height="40" alt="electron"   src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/electron/electron.png"></code>  
-<code><img height="40" alt="tauri"      src="https://raw.githubusercontent.com/github/explore/70444453f0d8b1143dca3a7b273119ef88bd4399/topics/tauri/tauri.png"></code>  
+<code><img height="40px" width="40px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png"></code>
+<code><img height="40px" width="40px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/typescript/typescript.png"></code>
+<code><img height="40px" width="40px" alt="react"      src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/react/react.png"></code>
+<code><img height="40px" width="40px" alt="nodejs"     src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/nodejs/nodejs.png"></code>    
+<code><img height="40px" width="40px" alt="electron"   src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/electron/electron.png"></code>  
+<code><img height="40px" width="40px" alt="tauri"      src="https://raw.githubusercontent.com/github/explore/70444453f0d8b1143dca3a7b273119ef88bd4399/topics/tauri/tauri.png"></code>  
 </p>
 
 <br />
 
 ### Blog
-[<img height="40" alt="github" src="https://raw.githubusercontent.com/github/explore/70444453f0d8b1143dca3a7b273119ef88bd4399/topics/github/github.png" />](https://zhuzhuyule.github.io)　[<img height="40" alt="csdn" src="https://telegra.ph/file/d9e347310c657bd107727.png" />](https://blog.csdn.net/zhuzhuyule)
+[<img height="40" width="40px" alt="github" src="https://raw.githubusercontent.com/github/explore/70444453f0d8b1143dca3a7b273119ef88bd4399/topics/github/github.png" />](https://zhuzhuyule.github.io)　[<img height="40"   alt="csdn" src="https://telegra.ph/file/d9e347310c657bd107727.png" />](https://blog.csdn.net/zhuzhuyule)
 
 <br />
 
